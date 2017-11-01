@@ -4,6 +4,7 @@
   "description": "私人用api",
   "private": true,
   "dependencies": {
+    "crypto": "^1.0.1",
     "egg": "^1.10.0",
     "egg-scripts": "^2.1.0"
   },

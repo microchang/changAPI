@@ -2,7 +2,7 @@
 
 module.exports = appInfo => {
   const config = exports = {};
-
+  config.WXTOKEN = 'ceshiyixia';
   // use for cookie sign key, should change to your own and keep security
   config.keys = appInfo.name + '_1509506019968_7349';
 
